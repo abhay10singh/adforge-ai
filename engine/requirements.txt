@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-multipart
+langchain
+langchain-core
+langchain-google-genai
+langchain-openai
+langgraph
+requests
+rembg[cpu]
+pillow
+python-dotenv
+cloudinary
+openai
+onnxruntime
+pydantic
